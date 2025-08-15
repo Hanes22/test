@@ -17,7 +17,14 @@
         "device_id": "9f91cd340f8e83ae",
         "username": "empe",
         "password": "123",
-        "expirydate": "17-08-2025",
+        "expirydate": "17-09-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "52da4be70cf28599",
+        "username": "killua",
+        "password": "123",
+        "expirydate": "17-09-2025",
         "Allowoffline": false
     }
 ]
