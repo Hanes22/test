@@ -12,5 +12,12 @@
         "password": "pass123",
         "expirydate": "16-08-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9f91cd340f8e83ae",
+        "username": "empe",
+        "password": "123",
+        "expirydate": "17-08-2025",
+        "Allowoffline": false
     }
 ]
