@@ -8,10 +8,10 @@
     },
     {
         "device_id": "f555bf21479620b8",
-        "username": "user2",
-        "password": "pass123",
+        "username": "admin",
+        "password": "admin",
         "expirydate": "16-08-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     },
     {
         "device_id": "9f91cd340f8e83ae",
