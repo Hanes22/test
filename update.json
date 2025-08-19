@@ -40,5 +40,12 @@
         "password": "123",
         "expirydate": "17-09-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "638977deddc9441b",
+        "username": "mario",
+        "password": "123",
+        "expirydate": "17-09-2025",
+        "Allowoffline": false
     }
 ]
