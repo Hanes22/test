@@ -67,5 +67,11 @@
         "password": "123",
         "expirydate": "29-10-2025",
         "Allowoffline": false
+    },
+    {"device_id": "b799ca02174e0193",
+        "username": "primo",
+        "password": "123",
+        "expirydate": "29-10-2025",
+        "Allowoffline": false
     }
 ]
