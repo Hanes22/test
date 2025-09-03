@@ -59,7 +59,7 @@
         "device_id": "d66a67c5e07beb40",
         "username": "tian",
         "password": "123",
-        "expirydate": "01-10-2025",
+        "expirydate": "15-09-2025",
         "Allowoffline": false
     },
     {"device_id": "77a2369ab4fecc1c",
@@ -79,5 +79,12 @@
         "password": "123",
         "expirydate": "30-10-2025",
         "Allowoffline": false
-        }
+     },
+    {
+        "device_id": "c94bd675b7b155a9",
+        "username": "maricris",
+        "password": "123",
+        "expirydate": "03-10-2025",
+        "Allowoffline": false
+    }
 ]
