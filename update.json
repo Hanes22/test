@@ -103,5 +103,12 @@
         "password": "1234",
         "expirydate": "01-02-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0927273",
+        "username": "testagain",
+        "password": "1234",
+        "expirydate": "01-01-2027",
+        "Allowoffline": false
     }
 ]
