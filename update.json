@@ -124,5 +124,12 @@
         "password": "1234",
         "expirydate": "01-02-2029",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cee5cea8d9abfafe",
+        "username": "gabo",
+        "password": "123",
+        "expirydate": "15-10-2025",
+        "Allowoffline": false
     }
 ]
