@@ -1,5 +1,14 @@
 {
-  "latest_version": "added skill ranged 🤣"
+  "latest_version": "✅ Added:\n
+• Pots Selection (Old / New)\n
+• New Attack Speed\n
+\n
+📘 Guide:\n
+• Triple Pots: Toggle On/Off to trigger reconnect\n
+\n
+🐞 Bugs:\n
+• Sometimes, when using Triple Pots, your account can’t enter any server.\n
+→ If this happens, you need to clear the app data.\n"
 ,
   "url": "https://raw.githubusercontent.com/Hanes22/test/main/libhanes.so"
 }
