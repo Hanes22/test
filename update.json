@@ -142,8 +142,8 @@
     {
         "device_id": "05f89e588a8d39ec",
         "username": "yagan",
-        "password": "123",
-        "expirydate": "11-11-2025",
+        "password": "1234",
+        "expirydate": "12-11-2025",
         "Allowoffline": false
     }
 ]
