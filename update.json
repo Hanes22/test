@@ -152,5 +152,12 @@
         "password": "1234",
         "expirydate": "12",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ae441fecb5415e78",
+        "username": "hanes",
+        "password": "1234",
+        "expirydate": "31\/10\/2025",
+        "Allowoffline": false
     }
 ]
