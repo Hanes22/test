@@ -157,21 +157,28 @@
         "device_id": "ae441fecb5415e78",
         "username": "hanes",
         "password": "1234",
-        "expirydate": "31\/10\/2025",
+        "expirydate": "31/10/2025",
         "Allowoffline": false
     },
     {
         "device_id": "ae441fecb5415e78",
         "username": "admin",
         "password": "1234",
-        "expirydate": "12\/10\/2025",
+        "expirydate": "12/10/2025",
         "Allowoffline": false
     },
     {
         "device_id": "ae441fecb5415e78",
         "username": "admin",
         "password": "1",
-        "expirydate": "11\/10\/2025",
+        "expirydate": "11/10/2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "ae441fecb5415e78",
+        "username": "ganes",
+        "password": "1234",
+        "expirydate": "31/10/2025",
         "Allowoffline": false
     }
 ]
