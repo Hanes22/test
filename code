@@ -1,0 +1,24 @@
+
+
+How To Dump LibUEA Codes 
+
+
+ termux-change-repo     
+
+
+pkg install radare2
+
+
+cd /sdcard
+
+
+ls
+
+
+rabin2 -s libnba2k20_clean_opt.so >> YahdikallahlibUE4Dumped.txt && mv YahdikallahlibUE4Dumped.txt /sdcard && mv libnba2k20_clean_opt.so /sdcard
+
+rabin2 -s libUE4.so >> YahdikallahlibUE4Dumped.txt && mv YahdikallahlibUE4Dumped.txt /sdcard && mv libUE4.so /sdcard
+
+..Done Enjoy Subscriber
+Like And Subscribe My Chanell For More Hacks
+Your Friend Yahdikallah Hunter
