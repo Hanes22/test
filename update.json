@@ -42,13 +42,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "390dfd952935796a",
-        "username": "angkol",
-        "password": "123",
-        "expirydate": "17-10-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "638977deddc9441b",
         "username": "mario",
         "password": "123",
@@ -150,7 +143,7 @@
         "device_id": "f555bf21479620b8",
         "username": "admin",
         "password": "1",
-        "expirydate": "19\/10\/2025",
+        "expirydate": "19/10/2025",
         "Allowoffline": false
     },
     {
@@ -172,6 +165,13 @@
         "username": "abe",
         "password": "123",
         "expirydate": "13-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "390dfd952935796a",
+        "username": "angkol",
+        "password": "123",
+        "expirydate": "19-11-2025",
         "Allowoffline": false
     }
 ]
