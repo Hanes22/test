@@ -14,13 +14,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "f555bf21479620b8",
-        "username": "admin",
-        "password": "1998",
-        "expirydate": "17-10-2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "d66a67c5e07beb40",
         "username": "tian",
         "password": "123",
@@ -140,13 +133,6 @@
         "Allowoffline": false
     },
     {
-        "device_id": "f555bf21479620b8",
-        "username": "admin",
-        "password": "1",
-        "expirydate": "19\/10\/2025",
-        "Allowoffline": false
-    },
-    {
         "device_id": "0912374747",
         "username": "testing01",
         "password": "1998",
@@ -172,6 +158,13 @@
         "username": "angkol",
         "password": "123",
         "expirydate": "19-11-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "f555bf21479620b8",
+        "username": "admin",
+        "password": "1234",
+        "expirydate": "31-12-2025",
         "Allowoffline": false
     }
 ]
