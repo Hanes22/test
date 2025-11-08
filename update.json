@@ -166,5 +166,12 @@
         "password": "1234",
         "expirydate": "31-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2af5cb10c6502c36",
+        "username": "cenin",
+        "password": "123",
+        "expirydate": "09-12-2025",
+        "Allowoffline": false
     }
 ]
