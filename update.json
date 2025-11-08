@@ -173,5 +173,12 @@
         "password": "123",
         "expirydate": "09-12-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ae441fecb5415e78",
+        "username": "kice",
+        "password": "123",
+        "expirydate": "31-12-2025",
+        "Allowoffline": false
     }
 ]
