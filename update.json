@@ -61,7 +61,7 @@
         "password": "1234",
         "expirydate": "01-01-2026",
         "Allowoffline": false
-    },  
+    },
     {
         "device_id": "d3454212302f2dae",
         "username": "hanes0",
@@ -122,7 +122,7 @@
         "device_id": "05f89e588a8d39ec",
         "username": "yagan",
         "password": "123",
-        "expirydate": "12-11-2025",
+        "expirydate": "18-12-2025",
         "Allowoffline": false
     },
     {
@@ -167,5 +167,4 @@
         "expirydate": "09-12-2025",
         "Allowoffline": false
     }
-    
 ]
