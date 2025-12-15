@@ -180,5 +180,12 @@
         "password": "123",
         "expirydate": "16-03-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "565689080f7ba4d8",
+        "username": "clinx24",
+        "password": "123",
+        "expirydate": "16-03-2026",
+        "Allowoffline": false
     }
 ]
