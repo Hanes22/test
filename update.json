@@ -1,1 +1,17 @@
-[{"username":"admin","device_id":"f555bf21479620b8","password":"1234","expirydate":"31-01-2026","monthly_amount":1000,"paid":true}]
+[
+    {
+        "username": "admin",
+        "device_id": "f555bf21479620b8",
+        "password": "1234",
+        "expirydate": "31-01-2026",
+        "monthly_amount": 1000,
+        "paid": true
+    },
+    {
+        "device_id": "shshsb63",
+        "username": "test",
+        "password": "123",
+        "expirydate": "16-01-2026",
+        "Allowoffline": false
+    }
+]
