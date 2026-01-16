@@ -1,1 +1,65 @@
-[{"username":"admin","device_id":"f555bf21479620b8","password":"1234","expirydate":"31-01-2026","monthly_amount":0,"paid":true},{"username":"Lawrence","device_id":"bd47de39c3685208","password":"123","expirydate":"31-01-2026","monthly_amount":500,"paid":true},{"username":"angkol","device_id":"390dfd952935796a","password":"123","expirydate":"19-02-2026","monthly_amount":500,"paid":true},{"username":"clinx24","device_id":"565689080f7ba4d8","password":"123","expirydate":"28-02-2026","monthly_amount":500,"paid":true},{"username":"tian","device_id":"d66a67c5e07beb40","password":"123","expirydate":"28-02-2026","monthly_amount":1000,"paid":true},{"username":"killua","device_id":"52da4be70cf28599","password":"123","expirydate":"22-01-2026","monthly_amount":500,"paid":true},{"username":"mario","device_id":"638977deddc9441b","password":"123","expirydate":"31-01-2026","monthly_amount":500,"paid":true}]
+[
+    {
+        "username": "admin",
+        "device_id": "f555bf21479620b8",
+        "password": "1234",
+        "expirydate": "31-01-2026",
+        "monthly_amount": 0,
+        "paid": true
+    },
+    {
+        "username": "Lawrence",
+        "device_id": "bd47de39c3685208",
+        "password": "123",
+        "expirydate": "31-01-2026",
+        "monthly_amount": 500,
+        "paid": true
+    },
+    {
+        "username": "angkol",
+        "device_id": "390dfd952935796a",
+        "password": "123",
+        "expirydate": "19-02-2026",
+        "monthly_amount": 500,
+        "paid": true
+    },
+    {
+        "username": "clinx24",
+        "device_id": "565689080f7ba4d8",
+        "password": "123",
+        "expirydate": "28-02-2026",
+        "monthly_amount": 500,
+        "paid": true
+    },
+    {
+        "username": "tian",
+        "device_id": "d66a67c5e07beb40",
+        "password": "123",
+        "expirydate": "28-02-2026",
+        "monthly_amount": 1000,
+        "paid": true
+    },
+    {
+        "username": "killua",
+        "device_id": "52da4be70cf28599",
+        "password": "123",
+        "expirydate": "22-01-2026",
+        "monthly_amount": 500,
+        "paid": true
+    },
+    {
+        "username": "mario",
+        "device_id": "638977deddc9441b",
+        "password": "123",
+        "expirydate": "31-01-2026",
+        "monthly_amount": 500,
+        "paid": true
+    },
+    {
+        "device_id": "cd3ba1d2f3ad69a9",
+        "username": "watapak",
+        "password": "123",
+        "expirydate": "16-01-2030",
+        "Allowoffline": false
+    }
+]
