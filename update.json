@@ -84,9 +84,10 @@
         "username": "Maricris",
         "device_id": "c94bd675b7b155a9",
         "password": "123",
-        "expirydate": "02-02-2026",
+        "expirydate": "03-04-2026",
         "monthly_amount": 250,
-        "paid": true
+        "paid": true,
+        "Allowoffline": false
     },
     {
         "username": "yagan",
