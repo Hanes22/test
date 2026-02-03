@@ -51,9 +51,10 @@
         "username": "mario",
         "device_id": "638977deddc9441b",
         "password": "123",
-        "expirydate": "03-02-2026",
+        "expirydate": "03-04-2026",
         "monthly_amount": 250,
-        "paid": true
+        "paid": true,
+        "Allowoffline": false
     },
     {
         "username": "watapak",
