@@ -1,9 +1,1 @@
-{
-  "keys":[
-    {
-      "key":"ABC-123",
-      "device":"",
-      "expires":"2026-12-31"
-    }
-  ]
-}
+{"keys":[{"key":"ABC-123","device":"dWLv6QJxqtlpuAS\/tsDEYoWWzJR0iUvwGoCYGH0lrOE=","expires":"2026-12-31"}]}
