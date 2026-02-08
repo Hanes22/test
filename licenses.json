@@ -1,14 +1,6 @@
 {
-  "keys": [
-    {
-      "key": "hanes",
-      "device": "",
-      "expires": "2026-12-31"
-    },
-    {
-      "key": "VIP-9999",
-      "device": "",
-      "expires": ""
-    }
+  "licenses":[
+     "ABC123",
+     "HELLO999"
   ]
 }
