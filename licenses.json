@@ -1,5 +1,14 @@
-{"keys":[
-{"key":"KEY-HANES-01","device":"","expires":"2026-03-31"},
-
-]
+{
+  "keys": [
+    {
+      "key": "hanes",
+      "device": "",
+      "expires": "2026-12-31"
+    },
+    {
+      "key": "VIP-9999",
+      "device": "",
+      "expires": ""
+    }
+  ]
 }
