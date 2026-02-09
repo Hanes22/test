@@ -1,1 +1,11 @@
-{"keys":[{"key":"HANES-0000-0000","device":"dWLv6QJxqtlpuAS\/tsDEYoWWzJR0iUvwGoCYGH0lrOE=","expires":"2027-12-31"},{"key":"VIP-7KD2-LP90","device":"","expires":"2026-08-01"},{"key":"EMPE-0000-0001","device":"AzDxSwqGgCpbxXVks\/9LNlP9kc4Vy8vgtl4grgivEfU=","expires":"2026-04-10"}]}
+{
+  "keys": [
+    {"key":"JOMI-0000-0001","device":"","expires":"2026-03-09"},
+    {"key":"WATA-0000-0002","device":"","expires":"2026-03-09"},
+    {"key":"MARIO-0000-0003","device":"","expires":"2026-03-09"},
+    {"key":"MARICRIS-0000-0004","device":"","expires":"2026-03-09"},
+    {"key":"PADS-0000-0005","device":"","expires":"2026-03-09"},
+    {"key":"EMPE-0000-0006","device":"","expires":"2026-03-09"},
+    {"key":"HANES-0000-0000","device":"","expires":"2026-03-09"}
+  ]
+}
