@@ -1,6 +1,19 @@
 {
-  "licenses":[
-     "ABC123",
-     "HELLO999"
+  "keys": [
+    {
+      "key": "HANES-9F3K-21XA",
+      "device": "",
+      "expires": "2027-12-31"
+    },
+    {
+      "key": "VIP-7KD2-LP90",
+      "device": "",
+      "expires": "2026-08-01"
+    },
+    {
+      "key": "TEST-DEVICE-001",
+      "device": "mP9sE2sLk2P93kQkdfk==",
+      "expires": "2026-05-20"
+    }
   ]
 }
