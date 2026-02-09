@@ -1,16 +1,1 @@
-{
-  "keys": [
-    {"key":"JOMI-0000-0001","device":"","expires":"2026-03-09"},
-    {"key":"WATA-0000-0002","device":"","expires":"2026-03-09"},
-    {"key":"MARIO-0000-0003","device":"","expires":"2026-03-09"},
-    {"key":"MARICRIS-0000-0004","device":"","expires":"2026-03-09"},
-    {"key":"PADS-0000-0005","device":"","expires":"2026-03-09"},
-    {"key":"EMPE-0000-0006","device":"","expires":"2026-03-09"},
-    {"key":"HANES-0000-0000","device":"","expires":"2026-03-09"},
-    {"key":"ABE-0000-0007","device":"","expires":"2026-03-09"},
-    {"key":"HANES-0000-0008","device":"","expires":"2026-03-09"},
-    {"key":"TIAN-0000-0009","device":"","expires":"2026-03-09"},
-    {"key":"KILLUA-0000-0010","device":"","expires":"2026-03-09"},
-    {"key":"ANGKOL-0000-0011","device":"","expires":"2026-03-09"}
-  ]
-}
+{"keys":[{"key":"JOMI-0000-0001","device":"","expires":"2026-03-09"},{"key":"WATA-0000-0002","device":"","expires":"2026-03-09"},{"key":"MARIO-0000-0003","device":"","expires":"2026-03-09"},{"key":"MARICRIS-0000-0004","device":"","expires":"2026-03-09"},{"key":"PADS-0000-0005","device":"","expires":"2026-03-09"},{"key":"EMPE-0000-0006","device":"","expires":"2026-03-09"},{"key":"HANES-0000-0000","device":"dWLv6QJxqtlpuAS\/tsDEYoWWzJR0iUvwGoCYGH0lrOE=","expires":"2026-03-09"},{"key":"ABE-0000-0007","device":"","expires":"2026-03-09"},{"key":"HANES-0000-0008","device":"","expires":"2026-03-09"},{"key":"TIAN-0000-0009","device":"","expires":"2026-03-09"},{"key":"KILLUA-0000-0010","device":"","expires":"2026-03-09"},{"key":"ANGKOL-0000-0011","device":"","expires":"2026-03-09"}]}
