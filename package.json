@@ -1,0 +1,8 @@
+{
+  "name": "ran-1v1-server",
+  "version": "1.0.0",
+  "main": "server_sample.js",
+  "dependencies": {
+    "ws": "^8.13.0"
+  }
+}
